@@ -14,8 +14,4 @@ bye	BBye take care. See you soon
 what is your name	I am a bot created by team ORION
 sorry	never mind
 i am lonely	fret not, i am here for you
-
-
-
-
-
+what is the weather in {city_name}	bot will show weather stats
