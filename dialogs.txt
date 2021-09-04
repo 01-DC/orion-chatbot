@@ -1,0 +1,21 @@
+hi, how are you doing	i'm fine. how about yourself?
+i'm fine. how about yourself	i'm pretty good. thanks for asking.
+i'm pretty good. thanks for asking	no problem. so how have you been?
+no problem. so how have you been	i've been great. what about you?
+which country do you like the most	Australia
+nice	thanks
+can you tell me about the covid 19 cases	yes,currently they are moderate
+hi	hello
+hello	hi
+how are you	i am fine.how are you?
+i am good	Glad to hear that
+how are you doing	i am fine.how are you?
+bye	BBye take care. See you soon
+what is your name	I am a bot created by team ORION
+sorry	never mind
+i am lonely	fret not, i am here for you
+
+
+
+
+
